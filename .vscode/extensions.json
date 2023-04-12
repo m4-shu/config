@@ -1,0 +1,26 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "burkeholland.simple-react-snippets",
+    "christian-kohler.npm-intellisense",
+    "dbaeumer.vscode-eslint",
+    "DotJoshJohnson.xml",
+    "esbenp.prettier-vscode",
+    "GitHub.vscode-pull-request-github",
+    "hnw.vscode-auto-open-markdown-preview",
+    "mgmcdermott.vscode-language-babel",
+    "ms-python.isort",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-vscode-remote.remote-containers",
+    "PKief.material-icon-theme",
+    "pnp.polacode",
+    "redhat.vscode-yaml",
+    "sidneys1.gitconfig",
+    "Tyriar.sort-lines",
+    "Vue.volar",
+    "Vue.vscode-typescript-vue-plugin",
+    "waderyan.gitblame",
+    "znck.vue"
+  ]
+}

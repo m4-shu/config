@@ -1,0 +1,43 @@
+{
+  "editor.tabSize": 2,
+  "explorer.confirmDelete": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "emmet.triggerExpansionOnTab": true,
+  "git.confirmSync": false,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.colorTheme": "Monokai",
+  "workbench.startupEditor": "newUntitledFile",
+  "git.autofetch": true,
+  "editor.fontSize": 13,
+  "editor.suggestSelection": "first",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.tslint": true
+  },
+  "eslint.validate": ["javascript", "typescript", "typescriptreact"],
+  "scm.defaultViewMode": "tree",
+  "git.enableSmartCommit": true,
+  "editor.fontFamily": "JetBrains Mono",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "files.exclude": {
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.classpath": true,
+    "**/.factorypath": true
+  },
+  "terminal.integrated.fontFamily": "Hack Nerd Font",
+  "workbench.iconTheme": "material-icon-theme",
+  "terminal.integrated.defaultProfile.osx": "fish",
+  "editor.inlineSuggest.enabled": true,
+  "files.associations": {
+    "*.js": "javascript"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python",
+    "editor.formatOnType": true
+  }
+}
