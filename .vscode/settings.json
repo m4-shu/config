@@ -10,13 +10,15 @@
   "git.autofetch": true,
   "editor.fontSize": 13,
   "editor.suggestSelection": "first",
+  "workbench.editor.highlightModifiedTabs": true,
+  "editor.cursorBlinking": "phase",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "typescript.updateImportsOnFileMove.enabled": "always",
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true,
-    "source.fixAll.tslint": true
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll.tslint": "explicit"
   },
   "eslint.validate": ["javascript", "typescript", "typescriptreact"],
   "scm.defaultViewMode": "tree",
@@ -33,11 +35,12 @@
   "workbench.iconTheme": "material-icon-theme",
   "terminal.integrated.defaultProfile.osx": "fish",
   "editor.inlineSuggest.enabled": true,
-  "files.associations": {
-    "*.js": "javascript"
+  "githubPullRequests.pullBranch": "never",
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
   },
-  "[python]": {
-    "editor.defaultFormatter": "ms-python.python",
-    "editor.formatOnType": true
-  }
+  "workbench.activityBar.location": "top"
 }

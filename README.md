@@ -7,9 +7,9 @@ These are my VSCode plugins + settings I use.
 ## Nerd Fonts + Fira Code
 
 ```bash
-brew tap caskroom/fonts
-brew cask install font-hack-nerd-font
-brew cask install font-fira-code
+brew tap homebrew/cask-fonts
+brew install font-hack-nerd-font --cask
+brew install font-fira-code --cask
 ```
 
 ## JetBrains Font
